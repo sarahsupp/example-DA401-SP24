@@ -1,0 +1,12 @@
+---
+title: "example-project"
+format:
+  html:
+    theme: default
+---
+
+#will add my code here later
+```{r}
+
+```
+
